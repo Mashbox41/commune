@@ -1,7 +1,7 @@
         {
           "functions": {
             "api/**/*.js": {
-              "runtime": "node@18.x" // Correct format for Node.js
+              "runtime": "node@18.1" // Correct format for Node.js
             }
           }
         }
