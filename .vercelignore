@@ -1,0 +1,6 @@
+*
+!package.json
+!vercel.json
+!api/
+!api/moderate.ts
+!api/ping.ts
