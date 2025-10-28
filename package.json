@@ -1,6 +1,5 @@
 {
   "name": "commune-vercel",
-  "version": "now-php@1.0.0",
   "private": true,
   "type": "module",
   "dependencies": {
