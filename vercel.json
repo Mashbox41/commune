@@ -1,7 +1,5 @@
-        {
-          "functions": {
-            "api/**/*.js": {
-              "runtime": "node@18.1" // Correct format for Node.js
-            }
-          }
-        }
+{
+  "functions": {
+    "api/*.ts": { "runtime": "nodejs22.x" }
+  }
+}
