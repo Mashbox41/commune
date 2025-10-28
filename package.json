@@ -1,5 +1,5 @@
 {
-  "name": "commune-vercel",
+  "name": "commune",
   "private": true,
   "type": "module",
   "dependencies": {
